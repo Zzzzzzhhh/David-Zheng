@@ -1,0 +1,5 @@
+
+Test Performance: 
+
+Which of the two lists performs better as the size increases?
+Answer: From the chart attached(as an excel file), we can tell ArrayListAccess and LinkedListAddRemove performs better as size increases.
